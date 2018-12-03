@@ -1,0 +1,17 @@
+
+.todo-main {
+    background-color: #c7c7c7;
+    border-style: solid;
+    border-color: #4ac946;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    &:hover {
+        background-color: #c3dfca
+    }
+    .delete {
+        
+    }
+}

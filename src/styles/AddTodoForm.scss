@@ -1,0 +1,16 @@
+.addtodoform-main{
+    .inputs{
+        .ui.grid{
+            position: relative;
+            display: list-item;
+            .ui.input{
+                margin-left: -20%;
+                margin-top: 10px;
+                margin-bottom: 10px;      
+            }
+            .ui.selection.dropdown{
+                margin-left: -20%;
+            }
+        }
+    }
+}
